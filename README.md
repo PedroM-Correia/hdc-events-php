@@ -4,7 +4,7 @@
 
 # O que é?
 
-- É um sistema de gerenciamento de eventos na mesma ideia do Meetup feito em Laravel. Foi utilizado para contruir a parte do Front-end o Blade que é uma ferramente que há dentro do Laravel.
+- É um sistema de gerenciamento de eventos na mesma ideia do Meetup feito em Laravel. Foi utilizado para construir a parte do Front-end o Blade que é uma ferramente que há dentro do Laravel.
 
 # Conceitos contidos:
 
